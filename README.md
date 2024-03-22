@@ -10,7 +10,7 @@
 <br>
 
 ## Proyectos *bombitas*
-<table>
+<!--table>
 <tr>
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
@@ -29,7 +29,7 @@
                                                                                       
 </td>
                                                         
-</table>                                                                                 
+</table-->                                                                                 
 </div>
 <br>
                                                                              

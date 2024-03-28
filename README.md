@@ -9,7 +9,7 @@
 - 📲 Software Developer
 <br>
 
-## Proyectos *bombitas*
+<!--## Proyectos *bombitas*-->
 <!--table>
 <tr>
 <td width="50%">
